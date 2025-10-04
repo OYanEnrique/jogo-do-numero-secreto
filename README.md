@@ -2,6 +2,8 @@
 
 Um jogo de adivinhação desenvolvido em JavaScript durante o curso de JavaScript da Alura onde o jogador precisa descobrir um número secreto entre 1 e 10. O jogo utiliza síntese de voz para fornecer feedback em português.
 
+🎮 **[Jogar Online](https://jogonumerosecreto-sigma-black.vercel.app/)**
+
 ## Sobre o Projeto
 
 O jogador tenta adivinhar um número secreto e recebe dicas se o número é maior ou menor. O jogo conta as tentativas e utiliza a Web Speech API para falar as instruções e feedbacks em português brasileiro.
